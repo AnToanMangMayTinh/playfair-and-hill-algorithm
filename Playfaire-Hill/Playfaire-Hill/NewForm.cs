@@ -16,21 +16,28 @@ namespace Playfaire
         {
             InitializeComponent();
         }
-        // private delegate void PassingData(string strData);
-        private string strData;
-        public void txtPlainText_TextChanged(object sender, EventArgs e)
+
+        private string strData = "";
+        private bool bEnableButton = false;
+
+        public void SenDataToMainForm(ref string strData1)
         {
-            if (txtPlainText.Text.Length > 2)
-            {
-                strData = txtPlainText.Text;
-            }
+            strData1 = this.strData;
         }
 
-        public string GetDataFromNewForm ()
+        private void txtPlainText_TextChanged(object sender, EventArgs e)
         {
-           return strData ;
+            strData = txtPlainText.Text;
+            if (strData.Length >= 2)
+                bEnableButton = true;
+            else
+                bEnableButton = false;
         }
 
-
+        public bool GetEnableButton()
+        {
+            return bEnableButton;
+        }
+        
     }
 }
