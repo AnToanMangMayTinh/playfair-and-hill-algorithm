@@ -1,0 +1,11 @@
+D:\playfair_and_hill\playfair_and_hill\obj\Debug\playfair_and_hill.csprojResolveAssemblyReference.cache
+D:\playfair_and_hill\playfair_and_hill\obj\Debug\playfair_and_hill.MainForm.resources
+D:\playfair_and_hill\playfair_and_hill\obj\Debug\playfair_and_hill.Properties.Resources.resources
+D:\playfair_and_hill\playfair_and_hill\obj\Debug\playfair_and_hill.csproj.GenerateResource.Cache
+D:\playfair_and_hill\playfair_and_hill\bin\Debug\playfair_and_hill.exe.config
+D:\playfair_and_hill\playfair_and_hill\bin\Debug\playfair_and_hill.exe
+D:\playfair_and_hill\playfair_and_hill\bin\Debug\playfair_and_hill.pdb
+D:\playfair_and_hill\playfair_and_hill\bin\Debug\DevComponents.DotNetBar2.dll
+D:\playfair_and_hill\playfair_and_hill\bin\Debug\DevComponents.DotNetBar2.xml
+D:\playfair_and_hill\playfair_and_hill\obj\Debug\playfair_and_hill.exe
+D:\playfair_and_hill\playfair_and_hill\obj\Debug\playfair_and_hill.pdb
