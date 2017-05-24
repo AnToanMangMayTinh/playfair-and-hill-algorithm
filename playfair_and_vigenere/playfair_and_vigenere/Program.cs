@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace playfair_and_hill
+namespace playfair_and_vigenere
 {
     static class Program
     {

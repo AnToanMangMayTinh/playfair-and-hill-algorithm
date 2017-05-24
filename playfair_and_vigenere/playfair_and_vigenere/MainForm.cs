@@ -7,7 +7,7 @@ using System.IO;
 using System.Text;
 using System.Windows.Forms;
 
-namespace playfair_and_hill
+namespace playfair_and_vigenere
 {
     public partial class MainForm : DevComponents.DotNetBar.Metro.MetroAppForm
     {

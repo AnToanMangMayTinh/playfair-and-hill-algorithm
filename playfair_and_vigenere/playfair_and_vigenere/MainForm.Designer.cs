@@ -1,4 +1,4 @@
-﻿namespace playfair_and_hill
+﻿namespace playfair_and_vigenere
 {
     partial class MainForm
     {
@@ -115,7 +115,7 @@
             // 
             // txtAfterVige
             // 
-            this.txtAfterVige.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtAfterVige.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtAfterVige.BackColor = System.Drawing.Color.White;
             // 
@@ -152,7 +152,7 @@
             // btnDecryptVige
             // 
             this.btnDecryptVige.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
-            this.btnDecryptVige.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.btnDecryptVige.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnDecryptVige.AutoSize = true;
             this.btnDecryptVige.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
@@ -168,8 +168,8 @@
             // btnEncryptVige
             // 
             this.btnEncryptVige.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
-            this.btnEncryptVige.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.btnEncryptVige.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnEncryptVige.AutoSize = true;
             this.btnEncryptVige.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
@@ -184,7 +184,7 @@
             // 
             // txtResultVige
             // 
-            this.txtResultVige.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtResultVige.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtResultVige.BackColor = System.Drawing.Color.White;
             // 
@@ -220,7 +220,7 @@
             // 
             // txtPlainVige
             // 
-            this.txtPlainVige.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtPlainVige.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtPlainVige.BackColor = System.Drawing.Color.White;
             // 
@@ -256,8 +256,8 @@
             // 
             // txtKeyVige
             // 
-            this.txtKeyVige.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtKeyVige.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtKeyVige.BackColor = System.Drawing.Color.White;
             // 
@@ -349,7 +349,7 @@
             // btnDecrypt
             // 
             this.btnDecrypt.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
-            this.btnDecrypt.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.btnDecrypt.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnDecrypt.AutoSize = true;
             this.btnDecrypt.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
@@ -365,8 +365,8 @@
             // btnEncrypt
             // 
             this.btnEncrypt.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
-            this.btnEncrypt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.btnEncrypt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnEncrypt.AutoSize = true;
             this.btnEncrypt.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
@@ -381,8 +381,8 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox1.BackColor = System.Drawing.Color.Transparent;
             this.groupBox1.Controls.Add(this.rbtn6x6);
@@ -433,8 +433,8 @@
             // 
             // txtKey
             // 
-            this.txtKey.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtKey.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtKey.BackColor = System.Drawing.Color.White;
             // 
@@ -468,7 +468,7 @@
             // 
             // txtCipherText
             // 
-            this.txtCipherText.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtCipherText.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtCipherText.BackColor = System.Drawing.Color.White;
             // 
@@ -504,7 +504,7 @@
             // 
             // txtPlainTextAfter
             // 
-            this.txtPlainTextAfter.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtPlainTextAfter.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtPlainTextAfter.BackColor = System.Drawing.Color.White;
             // 
@@ -540,7 +540,7 @@
             // 
             // txtPlainText
             // 
-            this.txtPlainText.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtPlainText.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtPlainText.BackColor = System.Drawing.Color.White;
             // 
@@ -577,8 +577,8 @@
             // 
             // metroShell1
             // 
-            this.metroShell1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.metroShell1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.metroShell1.BackColor = System.Drawing.Color.White;
             // 
