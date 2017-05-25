@@ -9,3 +9,14 @@ D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigene
 D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_hill\bin\Debug\playfair_and_hill.pdb
 D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_hill\bin\Debug\DevComponents.DotNetBar2.dll
 D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_hill\bin\Debug\DevComponents.DotNetBar2.xml
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\bin\Debug\playfair_and_hill.exe.config
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\bin\Debug\playfair_and_hill.exe
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\bin\Debug\playfair_and_hill.pdb
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\bin\Debug\DevComponents.DotNetBar2.dll
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\bin\Debug\DevComponents.DotNetBar2.xml
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\obj\Debug\playfair_and_vigenere.csprojResolveAssemblyReference.cache
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\obj\Debug\playfair_and_vigenere.MainForm.resources
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\obj\Debug\playfair_and_hill.Properties.Resources.resources
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\obj\Debug\playfair_and_vigenere.csproj.GenerateResource.Cache
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\obj\Debug\playfair_and_hill.exe
+D:\GitHub\Do_an_An_toan_mang\playfair-and-vigenere-algorithm\playfair_and_vigenere\playfair_and_vigenere\obj\Debug\playfair_and_hill.pdb

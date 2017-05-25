@@ -429,7 +429,16 @@ namespace playfair_and_vigenere
                 string strCipher = "";
                 for (int i = 0; i < strPlain.Length; i++)
                 {
-                    int index = (lsAlphabet.IndexOf(strPlain[i].ToString()) + 26) - lsAlphabet.IndexOf(strKey[i].ToString());
+                    int a = 1; // a = 0 khi ( k + p ) < 26 
+                    // a = 1 khi (k + p) > 26
+                    //với k là key; p là plaintext
+                    retry:
+                    int index = (lsAlphabet.IndexOf(strPlain[i].ToString()) + 26*a) - lsAlphabet.IndexOf(strKey[i].ToString());
+                    if(index >= 26)
+                    {
+                        a = 0;
+                        goto retry;
+                    }
                     strCipher += lsAlphabet[index];
                 }
                 lsCipherString.Add(strCipher);
